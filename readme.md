@@ -1,5 +1,5 @@
 
-### Hi there, I'm Maciej - aka jatonieja_ [https://twitter.com/NemsMaciej] 👋 
+### Hi there, I'm Maciej - aka jatonieja_ [discord : jatonieja_#0001 :3] 👋 
 
 
 ## I'm 15 years old and I'm starting to learn to program
@@ -33,8 +33,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
