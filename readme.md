@@ -25,17 +25,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-No vids yet
-<!-- YOUTUBE:END -->
-
----
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
