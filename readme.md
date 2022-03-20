@@ -38,4 +38,4 @@
 
 [twitter]: https://twitter.com/NemsMaciej
 [youtube]: https://www.youtube.com/channel/UCEzm7pADP8Q7GWalkZXvogw
-[instagram]: https://www.instagram.com/jatonieja.a/
+[instagram]: https://www.instagram.com/nemsmaciej/
